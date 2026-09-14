@@ -64,11 +64,9 @@ I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for design
 
 ### ✍️ Dev Quote:
 
-### ✍️ Dev Quote:
-
 <table align="center" width="100%">
   <tr>
-    <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <td align="center" style="background-color: #0d1117; border: 1px solid #3b82f6; border-radius: 10px; padding: 20px; box-shadow: 0 0 12px rgba(59, 130, 246, 0.4);">
       <p style="color: #3b82f6; font-size: 18px; font-weight: bold; margin-bottom: 8px;">
         “ Setiap kegagalan adalah potongan kode untuk sukses yang sedang dirakit. ”
       </p>
