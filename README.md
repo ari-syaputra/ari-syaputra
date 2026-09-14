@@ -32,16 +32,10 @@ I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for design
 ---
 
 ### 💻 Tech Stack & Tools:
-
-#### 🎨 UI/UX Design:
 <p>
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/SKETCH-F7B500?style=for-the-badge&logo=sketch&logoColor=white" />
-</p>
-
-#### 🌐 Languages & Web Frameworks:
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -55,17 +49,9 @@ I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for design
   <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-#### 📊 Data Science:
-<p>
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-#### 🗄️ Database, Environment & DevOps Tools:
-<p>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
