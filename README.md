@@ -64,27 +64,17 @@ I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for design
 
 ### ✍️ Dev Quote:
 
-<div align="center">
-  <svg width="520" height="150" viewBox="0 0 520 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#3b82f6" />
-        <stop offset="100%" stop-color="#8b5cf6" />
-      </linearGradient>
-      <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#10b981" />
-        <stop offset="100%" stop-color="#3b82f6" />
-      </linearGradient>
-    </defs>
-    <rect width="518" height="148" x="1" y="1" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-    <text x="20" y="42" fill="#8b5cf6" font-size="32" font-family="'Segoe UI', Roboto, sans-serif" opacity="0.35">“</text>
-    <text x="480" y="98" fill="#8b5cf6" font-size="32" font-family="'Segoe UI', Roboto, sans-serif" opacity="0.35">”</text>
-    <text x="38" y="65" fill="url(#text-grad)" font-size="14" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" letter-spacing="0.2">
-      Setiap kegagalan adalah potongan kode untuk sukses yang sedang dirakit.
-    </text>
-    <line x1="38" y1="98" x2="78" y2="98" stroke="url(#line-grad)" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="38" y="120" fill="#10b981" font-size="13" font-family="'Segoe UI', Roboto, sans-serif" font-weight="500" font-style="italic" letter-spacing="0.5">
-      Risnal Ari Syaputra
-    </text>
-  </svg>
-</div>
+### ✍️ Dev Quote:
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+      <p style="color: #3b82f6; font-size: 18px; font-weight: bold; margin-bottom: 8px;">
+        “ Setiap kegagalan adalah potongan kode untuk sukses yang sedang dirakit. ”
+      </p>
+      <p style="color: #10b981; font-size: 14px; font-style: italic; margin-top: 0;">
+        — Risnal Ari Syaputra
+      </p>
+    </td>
+  </tr>
+</table>
