@@ -9,19 +9,19 @@
 ---
 
 ### 💫 About Me:
-I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for designing intuitive user interfaces and building robust scalable backends. I work across the entire development stack—from crafting wireframes and prototypes in Figma, Canva, and Sketch to engineering high-performance web applications using Laravel, React, Node.js, and modern Python frameworks like FastAPI, Django, and Flask. Additionally, I explore Data Science to leverage data-driven solutions for real-world problems. Always learning, always building.
+I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for designing intuitive user interfaces and building robust, scalable backends. I work across the entire development stack—from crafting wireframes and prototypes in Figma, Canva, and Sketch to engineering high-performance web applications using Laravel, React, Node.js, and modern Python frameworks like FastAPI, Django, and Flask. Additionally, I explore Data Science to leverage data-driven solutions for real-world problems. Always learning, always building.
 
 ---
 
 ### 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/arii_syaputraaa/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:emailanda@gmail.com" target="_blank">
+  <a href="mailto:your_email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ari-syaputra" target="_blank">
