@@ -1,6 +1,10 @@
 # Hi there, I'm Ari Syaputra 👋
 
-<h3 align="center">Information Systems Student</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Information+Systems+Student;UI%2FUX+Designer+%26+Fullstack+Dev" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -17,7 +21,7 @@ I'm a dedicated UI/UX Designer and Fullstack Developer with a passion for design
   <a href="https://www.instagram.com/arii_syaputraaa/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto: emailanda@gmail.com" target="_blank">
+  <a href="mailto:emailanda@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ari-syaputra" target="_blank">
